@@ -1,7 +1,7 @@
 name: Gaurav Nawathey
 favicon: null
-layout_spectrum: 0.6744864068459719
-typography_spectrum: 0.1891280459240079
+layout_spectrum: 1
+typography_spectrum: 0.71668
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9728602520190179
-  lightness: 0.6207208619453013
-  saturation: 0.7100660142023116
-  rhythmicContrast: 0.41716296318918467
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
