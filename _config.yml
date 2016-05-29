@@ -1,6 +1,6 @@
 name: Gaurav Nawathey
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.71668
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0c0c0c'
+    - '#ffe4b3'
+    - '#c6af59'
+    - '#836c48'
+    - '#d8682a'
   brandStrength: 1
   lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
