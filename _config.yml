@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.792763
 color:
   brandColors:
     - '#0c0c0c'
@@ -10,9 +10,9 @@ color:
   lightness: 0.75
   rhythmicContrast: 0.5
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.806743
-name: Gaurav Nawathey
 opengraph: {}
+layout_spectrum: 0.806743
+analytics: {}
+name: Gaurav Nawathey
+cta: {}
 purpose: []
-typography_spectrum: 0.792763
